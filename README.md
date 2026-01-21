@@ -3,8 +3,6 @@
 AI Study Buddy is a Streamlit-based AI application that helps students:
 - Explain topics
 - Summarize notes
-- Answer questions
-- Generate MCQs
 
 ## Technologies Used
 - Python
@@ -26,3 +24,4 @@ AI STUDY BUDDY/
 
 ## Developed By
 Vishakha Tayade
+
